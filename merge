@@ -1,0 +1,14 @@
+commit fc9c520627b6a55cba5b77b8d703109ce0753b0b
+Author: unknown <Chen@.(none)>
+Date:   Sun Oct 31 17:46:09 2010 +0800
+
+    rm project
+
+diff --git a/~requirement_docs/Requirements  Outline.doc b/~requirement_docs/Requirements  Outline.doc
+new file mode 100644
+index 0000000..3033f6e
+Binary files /dev/null and b/~requirement_docs/Requirements  Outline.doc differ
+diff --git a/~requirement_docs/Use Cases.doc b/~requirement_docs/Use Cases.doc
+new file mode 100644
+index 0000000..1c0286b
+Binary files /dev/null and b/~requirement_docs/Use Cases.doc differ
