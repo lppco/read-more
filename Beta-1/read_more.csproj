@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4689C168-21BD-4847-B890-1AFEB8460E9D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>read_more</RootNamespace>
+    <AssemblyName>read_more</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <ApplicationIcon>ntfy.ico</ApplicationIcon>
+    <StartupObject>read_more.Program</StartupObject>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Release\read_more.xml</DocumentationFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="SortType.cs" />
+    <Compile Include="Book.cs" />
+    <Compile Include="BookInfoIndex.cs" />
+    <Compile Include="ComboBoxEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CommonUtil.cs" />
+    <Compile Include="Constants.cs" />
+    <Compile Include="FormUtil.cs" />
+    <Compile Include="frmAboutAuthor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAboutAuthor.Designer.cs">
+      <DependentUpon>frmAboutAuthor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAboutSoft.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAboutSoft.Designer.cs">
+      <DependentUpon>frmAboutSoft.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewNode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewNode.Designer.cs">
+      <DependentUpon>frmNewNode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRenNode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRenNode.Designer.cs">
+      <DependentUpon>frmRenNode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSetExport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSetExport.Designer.cs">
+      <DependentUpon>frmSetExport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IconIndex.cs" />
+    <Compile Include="ImgUtil.cs" />
+    <Compile Include="NodeBookMap.cs" />
+    <Compile Include="OutputBookList.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAboutAuthor.resx">
+      <DependentUpon>frmAboutAuthor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAboutSoft.resx">
+      <DependentUpon>frmAboutSoft.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewNode.resx">
+      <DependentUpon>frmNewNode.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRenNode.resx">
+      <DependentUpon>frmRenNode.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSetExport.resx">
+      <DependentUpon>frmSetExport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SearchBook.cs" />
+    <Compile Include="SearchCondition.cs" />
+    <Compile Include="TraceLog.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\addfile.png" />
+    <None Include="images\addfolder.png" />
+    <None Include="images\bg.jpg" />
+    <Content Include="images\c.png" />
+    <None Include="images\clear.png" />
+    <Content Include="images\cpp.png" />
+    <None Include="images\details.png" />
+    <Content Include="images\doc.png" />
+    <None Include="images\exit.png" />
+    <Content Include="images\folder.png" />
+    <None Include="images\help.png" />
+    <Content Include="images\html.png" />
+    <None Include="images\icon.png" />
+    <Content Include="images\library.png" />
+    <None Include="images\me.png" />
+    <None Include="images\list.png" />
+    <None Include="images\P38.bmp" />
+    <Content Include="images\pdf.png" />
+    <Content Include="images\ppt.png" />
+    <Content Include="images\progress.gif" />
+    <None Include="images\saveok.png" />
+    <None Include="images\search.png" />
+    <Content Include="images\QQ截图未命名.png" />
+    <Content Include="images\select.png" />
+    <None Include="images\set.png" />
+    <None Include="images\stat.png" />
+    <None Include="images\viewtype.png" />
+    <Content Include="images\xls.png" />
+    <Content Include="ntfy.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
