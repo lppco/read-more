@@ -1,0 +1,9 @@
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.pdb
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\read_more.exe
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\read_more.pdb
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\read_more_Accessor.dll
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\read_more_Accessor.pdb
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\obj\Debug\TestProjectReadMore.dll
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\obj\Debug\TestProjectReadMore.pdb

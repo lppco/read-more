@@ -1,0 +1,519 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="902ca7a6-35f4-428d-a1c7-c9a35d289c04" name="oujun@OUJUN-PC 2011-01-09 14:42:35" runUser="oujun-PC\oujun" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="本地测试运行" id="77befa6a-4fce-432e-8fce-cb422d293a79">
+    <Description>这是本地测试运行的默认测试运行配置。</Description>
+    <Deployment runDeploymentRoot="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestResults\oujun_OUJUN-PC 2011-01-09 14_42_35">
+      <DeploymentItem filename="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\bin\Debug\read_more.exe" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Failed">
+    <Counters total="31" executed="31" passed="19" error="0" failed="8" timeout="0" aborted="0" inconclusive="4" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2011-01-09T14:42:35.9933750+08:00" queuing="2011-01-09T14:42:39.5832188+08:00" start="2011-01-09T14:42:39.9963047+08:00" finish="2011-01-09T14:42:50.7423984+08:00" />
+  <TestDefinitions>
+    <UnitTest name="GetRelativeAppDirTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="c23b9e62-2b38-abf3-74fe-976b3e963270">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="c4852655-6572-4752-b19d-2c6c91cc2a15" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.CommonUtilTest, TestProjectReadMore" name="GetRelativeAppDirTest" />
+    </UnitTest>
+    <UnitTest name="WriteInfoToFileTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="223a5eae-08c5-75ef-dc51-eb7d29d617da">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="206159f4-4c30-456a-ac51-dd1b10a2d9b3" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.FormUtilTest, TestProjectReadMore" name="WriteInfoToFileTest" />
+    </UnitTest>
+    <UnitTest name="ModifyBookInfoTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="caed3b0a-97fd-4982-6262-68d78dda3c10">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <DeploymentItems>
+        <DeploymentItem filename="read_more.exe" />
+      </DeploymentItems>
+      <Execution id="fbc29017-5623-43ac-8f52-e0a651bbaaa7" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.FormUtilTest, TestProjectReadMore" name="ModifyBookInfoTest" />
+    </UnitTest>
+    <UnitTest name="CopyDirExtTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="6b320bcc-4da7-e499-316c-a90c5fec1e9f">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="8f4b613a-839a-4099-93ee-c43129e32c61" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.CommonUtilTest, TestProjectReadMore" name="CopyDirExtTest" />
+    </UnitTest>
+    <UnitTest name="GetFolderNameTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="52fd6cca-514c-504a-c1ca-f22d224aa47c">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="7cca4429-b122-4ab0-aa7d-7fb09d9111d1" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.CommonUtilTest, TestProjectReadMore" name="GetFolderNameTest" />
+    </UnitTest>
+    <UnitTest name="CreateBookNodeTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="be9f75e5-decf-6223-5081-6fe6becf3c26">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="6dbce37a-3a36-4e0c-8a4d-4e3c35e9bc8e" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.FormUtilTest, TestProjectReadMore" name="CreateBookNodeTest" />
+    </UnitTest>
+    <UnitTest name="AnalyseCurNodeTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="98d10aa3-ff17-648b-cc7e-ed011c1423e2">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="8b175f8d-f50b-41b8-be5e-26e17587c95f" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.FormUtilTest, TestProjectReadMore" name="AnalyseCurNodeTest" />
+    </UnitTest>
+    <UnitTest name="SaveBookInfoTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="1e79e126-c0df-e804-37a2-3858616fffa3">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="ad046735-f5f6-4058-87f5-a2ebac4d1d41" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.FormUtilTest, TestProjectReadMore" name="SaveBookInfoTest" />
+    </UnitTest>
+    <UnitTest name="GetFileNameTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="79458f1c-03c9-40c6-ec04-fec1e5a0f6aa">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="09f8cb1f-e5eb-4271-9080-fbd6cea47f78" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.CommonUtilTest, TestProjectReadMore" name="GetFileNameTest" />
+    </UnitTest>
+    <UnitTest name="InitBookInfoFileTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="4b3139d6-e47f-20d2-dfc5-dcb2f9e1ce54">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="b6e16350-8071-4fa1-aeba-1b81d756a86c" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.FormUtilTest, TestProjectReadMore" name="InitBookInfoFileTest" />
+    </UnitTest>
+    <UnitTest name="RecordBookInfoTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="e236651e-f668-c37e-eae7-d8bb058adba3">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="19ca5f5d-b484-41d7-94a3-5f51160d7e7e" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.FormUtilTest, TestProjectReadMore" name="RecordBookInfoTest" />
+    </UnitTest>
+    <UnitTest name="BookConstructorTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="54a7f750-b04b-c012-a7e8-dafee4bd00f9">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="9b86560b-52c4-4b3e-91cd-e9e63e2c96b4" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.BookTest, TestProjectReadMore" name="BookConstructorTest" />
+    </UnitTest>
+    <UnitTest name="BookConstructorTest1" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="c05ede38-2791-b312-2879-8d65bf73fd94">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="24dd7a33-6969-4290-8d89-42c3106213a5" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.BookTest, TestProjectReadMore" name="BookConstructorTest1" />
+    </UnitTest>
+    <UnitTest name="ContainNodeTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="2efad361-4af2-b529-ac09-b5b305b3dc5d">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="ed0da88d-a395-4187-bb9c-7bcd8c4317cb" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.FormUtilTest, TestProjectReadMore" name="ContainNodeTest" />
+    </UnitTest>
+    <UnitTest name="GetNewListItemTest1" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="f1a9f760-2fe4-6527-be5e-3f8ad2034213">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="c23f8a84-3c42-4b04-baf6-f88a60f31342" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.FormUtilTest, TestProjectReadMore" name="GetNewListItemTest1" />
+    </UnitTest>
+    <UnitTest name="AnalyseCurNodeTest1" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="769e3924-1eb0-8576-ee08-48fecf47e027">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="fb99a949-c3be-4cb3-bd34-73fb36d6772e" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.FormUtilTest, TestProjectReadMore" name="AnalyseCurNodeTest1" />
+    </UnitTest>
+    <UnitTest name="CopyFilesExtTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="a9907a87-e931-0fbb-5120-eb8b90749c91">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <DeploymentItems>
+        <DeploymentItem filename="read_more.exe" />
+      </DeploymentItems>
+      <Execution id="9f0fdf0a-c9c5-430f-a2d8-dbc8401b2056" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.CommonUtilTest, TestProjectReadMore" name="CopyFilesExtTest" />
+    </UnitTest>
+    <UnitTest name="GetNewNodeTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="385238eb-0e86-cab3-edcc-952ab494f745">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="860144a0-5cc9-4a1a-a5de-0b539fef96d5" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.FormUtilTest, TestProjectReadMore" name="GetNewNodeTest" />
+    </UnitTest>
+    <UnitTest name="DescriptionTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="3d730d73-27b1-9b8d-7120-843d5d4f105e">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="c5f87e4b-4709-48f4-8bca-aa06d9ecd486" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.BookTest, TestProjectReadMore" name="DescriptionTest" />
+    </UnitTest>
+    <UnitTest name="AuthorTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="1e655fec-4128-95dd-6c75-d4fae3337339">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="94829b0d-90bc-40f7-a076-cfbc88aea4fa" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.BookTest, TestProjectReadMore" name="AuthorTest" />
+    </UnitTest>
+    <UnitTest name="CanDragTest1" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="c3c7087e-541d-5bde-704c-80bfe780ce85">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="6d280770-119d-4740-a8a2-1e59b2aac750" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.FormUtilTest, TestProjectReadMore" name="CanDragTest1" />
+    </UnitTest>
+    <UnitTest name="GetNewListItemTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="12f37cbd-9345-5dc8-b845-2a7f0f9298cb">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="43a0dbf9-0ba9-455f-8895-6f333694e9cf" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.FormUtilTest, TestProjectReadMore" name="GetNewListItemTest" />
+    </UnitTest>
+    <UnitTest name="NameTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="e6f610f5-d53a-9081-bbad-5e133df8f67b">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="1c107113-7011-418c-97e1-5d7ce67a7544" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.BookTest, TestProjectReadMore" name="NameTest" />
+    </UnitTest>
+    <UnitTest name="GetNewNodeTest1" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="0955bd4f-e224-4757-3cd4-df2da5f56489">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="979bcc61-d27c-4f23-9404-f989faf81966" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.FormUtilTest, TestProjectReadMore" name="GetNewNodeTest1" />
+    </UnitTest>
+    <UnitTest name="ContainNodeTest1" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="09e5ac49-e310-9205-d443-2c4853ae1490">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="91775c4c-939a-4564-91b5-7ad94cb4b213" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.FormUtilTest, TestProjectReadMore" name="ContainNodeTest1" />
+    </UnitTest>
+    <UnitTest name="GetParentPathTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="4b63a06f-9885-091f-ef14-0a354e103e54">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="898b3fd1-6389-4d45-b2eb-e889f13a340b" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.CommonUtilTest, TestProjectReadMore" name="GetParentPathTest" />
+    </UnitTest>
+    <UnitTest name="CanDragTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="e217c5dc-0a15-ad75-020f-d43885fa6bc4">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="36295f6d-ff84-45f0-9314-0b6ca1b90ed3" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.FormUtilTest, TestProjectReadMore" name="CanDragTest" />
+    </UnitTest>
+    <UnitTest name="DelDirTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="aa1c672f-deac-5517-8626-c3562f752d29">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="0fc1f2df-7286-4ece-a3b3-58fce8172c51" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.CommonUtilTest, TestProjectReadMore" name="DelDirTest" />
+    </UnitTest>
+    <UnitTest name="DateTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="c8df8285-b6e9-ff80-79cf-4c1cb9fb54cb">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="408d797e-385d-4f70-b61a-2aef264e38b2" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.BookTest, TestProjectReadMore" name="DateTest" />
+    </UnitTest>
+    <UnitTest name="ModifyBookFileTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="0940173a-cce9-ae6b-81f0-d71759909509">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="b6d79d66-26d1-422c-9400-671944a31e62" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.FormUtilTest, TestProjectReadMore" name="ModifyBookFileTest" />
+    </UnitTest>
+    <UnitTest name="CreateDirTest" storage="c:\users\oujun\desktop\read_more\read_more\read_more beta\testprojectreadmore\bin\debug\testprojectreadmore.dll" id="c85bd1df-f5c9-a74e-03cb-51ae5a966b18">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="454757f3-01a4-4ea4-a088-a741da9c0181" />
+      <TestMethod codeBase="C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\bin\Debug\TestProjectReadMore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectReadMore.CommonUtilTest, TestProjectReadMore" name="CreateDirTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="列表中未列出的结果" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="所有已加载的结果" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="c23b9e62-2b38-abf3-74fe-976b3e963270" executionId="c4852655-6572-4752-b19d-2c6c91cc2a15" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="79458f1c-03c9-40c6-ec04-fec1e5a0f6aa" executionId="09f8cb1f-e5eb-4271-9080-fbd6cea47f78" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="52fd6cca-514c-504a-c1ca-f22d224aa47c" executionId="7cca4429-b122-4ab0-aa7d-7fb09d9111d1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c85bd1df-f5c9-a74e-03cb-51ae5a966b18" executionId="454757f3-01a4-4ea4-a088-a741da9c0181" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aa1c672f-deac-5517-8626-c3562f752d29" executionId="0fc1f2df-7286-4ece-a3b3-58fce8172c51" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4b63a06f-9885-091f-ef14-0a354e103e54" executionId="898b3fd1-6389-4d45-b2eb-e889f13a340b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a9907a87-e931-0fbb-5120-eb8b90749c91" executionId="9f0fdf0a-c9c5-430f-a2d8-dbc8401b2056" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6b320bcc-4da7-e499-316c-a90c5fec1e9f" executionId="8f4b613a-839a-4099-93ee-c43129e32c61" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="54a7f750-b04b-c012-a7e8-dafee4bd00f9" executionId="9b86560b-52c4-4b3e-91cd-e9e63e2c96b4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c05ede38-2791-b312-2879-8d65bf73fd94" executionId="24dd7a33-6969-4290-8d89-42c3106213a5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1e655fec-4128-95dd-6c75-d4fae3337339" executionId="94829b0d-90bc-40f7-a076-cfbc88aea4fa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c8df8285-b6e9-ff80-79cf-4c1cb9fb54cb" executionId="408d797e-385d-4f70-b61a-2aef264e38b2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3d730d73-27b1-9b8d-7120-843d5d4f105e" executionId="c5f87e4b-4709-48f4-8bca-aa06d9ecd486" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e6f610f5-d53a-9081-bbad-5e133df8f67b" executionId="1c107113-7011-418c-97e1-5d7ce67a7544" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="385238eb-0e86-cab3-edcc-952ab494f745" executionId="860144a0-5cc9-4a1a-a5de-0b539fef96d5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2efad361-4af2-b529-ac09-b5b305b3dc5d" executionId="ed0da88d-a395-4187-bb9c-7bcd8c4317cb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="12f37cbd-9345-5dc8-b845-2a7f0f9298cb" executionId="43a0dbf9-0ba9-455f-8895-6f333694e9cf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e217c5dc-0a15-ad75-020f-d43885fa6bc4" executionId="36295f6d-ff84-45f0-9314-0b6ca1b90ed3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="98d10aa3-ff17-648b-cc7e-ed011c1423e2" executionId="8b175f8d-f50b-41b8-be5e-26e17587c95f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="223a5eae-08c5-75ef-dc51-eb7d29d617da" executionId="206159f4-4c30-456a-ac51-dd1b10a2d9b3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1e79e126-c0df-e804-37a2-3858616fffa3" executionId="ad046735-f5f6-4058-87f5-a2ebac4d1d41" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e236651e-f668-c37e-eae7-d8bb058adba3" executionId="19ca5f5d-b484-41d7-94a3-5f51160d7e7e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="caed3b0a-97fd-4982-6262-68d78dda3c10" executionId="fbc29017-5623-43ac-8f52-e0a651bbaaa7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0940173a-cce9-ae6b-81f0-d71759909509" executionId="b6d79d66-26d1-422c-9400-671944a31e62" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4b3139d6-e47f-20d2-dfc5-dcb2f9e1ce54" executionId="b6e16350-8071-4fa1-aeba-1b81d756a86c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0955bd4f-e224-4757-3cd4-df2da5f56489" executionId="979bcc61-d27c-4f23-9404-f989faf81966" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f1a9f760-2fe4-6527-be5e-3f8ad2034213" executionId="c23f8a84-3c42-4b04-baf6-f88a60f31342" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="be9f75e5-decf-6223-5081-6fe6becf3c26" executionId="6dbce37a-3a36-4e0c-8a4d-4e3c35e9bc8e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="09e5ac49-e310-9205-d443-2c4853ae1490" executionId="91775c4c-939a-4564-91b5-7ad94cb4b213" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c3c7087e-541d-5bde-704c-80bfe780ce85" executionId="6d280770-119d-4740-a8a2-1e59b2aac750" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="769e3924-1eb0-8576-ee08-48fecf47e027" executionId="fb99a949-c3be-4cb3-bd34-73fb36d6772e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c4852655-6572-4752-b19d-2c6c91cc2a15" testId="c23b9e62-2b38-abf3-74fe-976b3e963270" testName="GetRelativeAppDirTest" computerName="OUJUN-PC" duration="00:00:00.0819926" startTime="2011-01-09T14:42:40.1681797+08:00" endTime="2011-01-09T14:42:40.9533359+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="09f8cb1f-e5eb-4271-9080-fbd6cea47f78" testId="79458f1c-03c9-40c6-ec04-fec1e5a0f6aa" testName="GetFileNameTest" computerName="OUJUN-PC" duration="00:00:00.0015601" startTime="2011-01-09T14:42:40.9650547+08:00" endTime="2011-01-09T14:42:40.9787266+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="7cca4429-b122-4ab0-aa7d-7fb09d9111d1" testId="52fd6cca-514c-504a-c1ca-f22d224aa47c" testName="GetFolderNameTest" computerName="OUJUN-PC" duration="00:00:00.0010380" startTime="2011-01-09T14:42:40.9943516+08:00" endTime="2011-01-09T14:42:41.0060703+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="454757f3-01a4-4ea4-a088-a741da9c0181" testId="c85bd1df-f5c9-a74e-03cb-51ae5a966b18" testName="CreateDirTest" computerName="OUJUN-PC" duration="00:00:00.0033000" startTime="2011-01-09T14:42:41.0324375+08:00" endTime="2011-01-09T14:42:41.0529453+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0fc1f2df-7286-4ece-a3b3-58fce8172c51" testId="aa1c672f-deac-5517-8626-c3562f752d29" testName="DelDirTest" computerName="OUJUN-PC" duration="00:00:00.0042977" startTime="2011-01-09T14:42:41.0715000+08:00" endTime="2011-01-09T14:42:41.0871250+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="898b3fd1-6389-4d45-b2eb-e889f13a340b" testId="4b63a06f-9885-091f-ef14-0a354e103e54" testName="GetParentPathTest" computerName="OUJUN-PC" duration="00:00:00.0011665" startTime="2011-01-09T14:42:41.1134922+08:00" endTime="2011-01-09T14:42:41.1242344+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="9f0fdf0a-c9c5-430f-a2d8-dbc8401b2056" testId="a9907a87-e931-0fbb-5120-eb8b90749c91" testName="CopyFilesExtTest" computerName="OUJUN-PC" duration="00:00:00.3488574" startTime="2011-01-09T14:42:41.1447422+08:00" endTime="2011-01-09T14:42:41.5031406+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="8f4b613a-839a-4099-93ee-c43129e32c61" testId="6b320bcc-4da7-e499-316c-a90c5fec1e9f" testName="CopyDirExtTest" computerName="OUJUN-PC" duration="00:00:00.0166113" startTime="2011-01-09T14:42:41.5265781+08:00" endTime="2011-01-09T14:42:41.5519688+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="9b86560b-52c4-4b3e-91cd-e9e63e2c96b4" testId="54a7f750-b04b-c012-a7e8-dafee4bd00f9" testName="BookConstructorTest" computerName="OUJUN-PC" duration="00:00:00.0076223" startTime="2011-01-09T14:42:41.5715000+08:00" endTime="2011-01-09T14:42:41.5881016+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="24dd7a33-6969-4290-8d89-42c3106213a5" testId="c05ede38-2791-b312-2879-8d65bf73fd94" testName="BookConstructorTest1" computerName="OUJUN-PC" duration="00:00:00.0008722" startTime="2011-01-09T14:42:41.6095859+08:00" endTime="2011-01-09T14:42:41.6193516+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="94829b0d-90bc-40f7-a076-cfbc88aea4fa" testId="1e655fec-4128-95dd-6c75-d4fae3337339" testName="AuthorTest" computerName="OUJUN-PC" duration="00:00:00.0012494" startTime="2011-01-09T14:42:41.6349766+08:00" endTime="2011-01-09T14:42:41.6476719+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="408d797e-385d-4f70-b61a-2aef264e38b2" testId="c8df8285-b6e9-ff80-79cf-4c1cb9fb54cb" testName="DateTest" computerName="OUJUN-PC" duration="00:00:00.0010723" startTime="2011-01-09T14:42:41.6672031+08:00" endTime="2011-01-09T14:42:41.6808750+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c5f87e4b-4709-48f4-8bca-aa06d9ecd486" testId="3d730d73-27b1-9b8d-7120-843d5d4f105e" testName="DescriptionTest" computerName="OUJUN-PC" duration="00:00:00.0011097" startTime="2011-01-09T14:42:41.7013828+08:00" endTime="2011-01-09T14:42:41.7121250+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1c107113-7011-418c-97e1-5d7ce67a7544" testId="e6f610f5-d53a-9081-bbad-5e133df8f67b" testName="NameTest" computerName="OUJUN-PC" duration="00:00:00.0008195" startTime="2011-01-09T14:42:41.7267734+08:00" endTime="2011-01-09T14:42:41.7355625+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="860144a0-5cc9-4a1a-a5de-0b539fef96d5" testId="385238eb-0e86-cab3-edcc-952ab494f745" testName="GetNewNodeTest" computerName="OUJUN-PC" duration="00:00:00.0841071" startTime="2011-01-09T14:42:41.7472813+08:00" endTime="2011-01-09T14:42:41.8381016+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ed0da88d-a395-4187-bb9c-7bcd8c4317cb" testId="2efad361-4af2-b529-ac09-b5b305b3dc5d" testName="ContainNodeTest" computerName="OUJUN-PC" duration="00:00:00.0019487" startTime="2011-01-09T14:42:41.8566563+08:00" endTime="2011-01-09T14:42:41.8664219+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="43a0dbf9-0ba9-455f-8895-6f333694e9cf" testId="12f37cbd-9345-5dc8-b845-2a7f0f9298cb" testName="GetNewListItemTest" computerName="OUJUN-PC" duration="00:00:00.0296718" startTime="2011-01-09T14:42:41.8830234+08:00" endTime="2011-01-09T14:42:41.9201328+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="36295f6d-ff84-45f0-9314-0b6ca1b90ed3" testId="e217c5dc-0a15-ad75-020f-d43885fa6bc4" testName="CanDragTest" computerName="OUJUN-PC" duration="00:00:00.0041405" startTime="2011-01-09T14:42:41.9484531+08:00" endTime="2011-01-09T14:42:41.9699375+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="8b175f8d-f50b-41b8-be5e-26e17587c95f" testId="98d10aa3-ff17-648b-cc7e-ed011c1423e2" testName="AnalyseCurNodeTest" computerName="OUJUN-PC" duration="00:00:00.0041553" startTime="2011-01-09T14:42:41.9933750+08:00" endTime="2011-01-09T14:42:42.0050938+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="206159f4-4c30-456a-ac51-dd1b10a2d9b3" testId="223a5eae-08c5-75ef-dc51-eb7d29d617da" testName="WriteInfoToFileTest" computerName="OUJUN-PC" duration="00:00:05.3985640" startTime="2011-01-09T14:42:42.0187656+08:00" endTime="2011-01-09T14:42:47.4250156+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <DebugTrace>URL 不能为空。
+参数名: url
+       在 System.Xml.XmlTextReaderImpl..ctor(String url, XmlNameTable nt)
+   在 System.Xml.XmlTextReader..ctor(String url, XmlNameTable nt)
+   在 System.Xml.XmlDocument.Load(String filename)
+   在 read_more.FormUtil.WriteInfoToFile(String fileName, TreeNode sourceNode, TreeNode targetNode) 位置 C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\FormUtil.cs:行号 115
+----------------------------------------------------------------------
+</DebugTrace>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive 失败。无法验证不返回值的方法。</Message>
+          <StackTrace>   在 TestProjectReadMore.FormUtilTest.WriteInfoToFileTest() 位置 C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\FormUtilTest.cs:行号 227
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ad046735-f5f6-4058-87f5-a2ebac4d1d41" testId="1e79e126-c0df-e804-37a2-3858616fffa3" testName="SaveBookInfoTest" computerName="OUJUN-PC" duration="00:00:00.0564495" startTime="2011-01-09T14:42:47.4709141+08:00" endTime="2011-01-09T14:42:47.5373203+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>测试方法 TestProjectReadMore.FormUtilTest.SaveBookInfoTest 引发异常:  System.NullReferenceException: 未将对象引用设置到对象的实例。。</Message>
+          <StackTrace>    在 read_more.FormUtil.SaveBookInfo(Book book, TreeNode node) 位置 C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\FormUtil.cs:行号 303
+   在 TestProjectReadMore.FormUtilTest.SaveBookInfoTest() 位置 C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\FormUtilTest.cs:行号 238
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="19ca5f5d-b484-41d7-94a3-5f51160d7e7e" testId="e236651e-f668-c37e-eae7-d8bb058adba3" testName="RecordBookInfoTest" computerName="OUJUN-PC" duration="00:00:01.2819047" startTime="2011-01-09T14:42:47.5656406+08:00" endTime="2011-01-09T14:42:48.8576328+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <DebugTrace>未将对象引用设置到对象的实例。
+       在 read_more.FormUtil.RecordBookInfo(TreeNode sourceNode, TreeNode targetNode) 位置 C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\FormUtil.cs:行号 148
+----------------------------------------------------------------------
+</DebugTrace>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive 失败。无法验证不返回值的方法。</Message>
+          <StackTrace>   在 TestProjectReadMore.FormUtilTest.RecordBookInfoTest() 位置 C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\FormUtilTest.cs:行号 251
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="fbc29017-5623-43ac-8f52-e0a651bbaaa7" testId="caed3b0a-97fd-4982-6262-68d78dda3c10" testName="ModifyBookInfoTest" computerName="OUJUN-PC" duration="00:00:00.0254248" startTime="2011-01-09T14:42:48.9279453+08:00" endTime="2011-01-09T14:42:48.9621250+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive 失败。无法验证不返回值的方法。</Message>
+          <StackTrace>   在 TestProjectReadMore.FormUtilTest.ModifyBookInfoTest() 位置 C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\FormUtilTest.cs:行号 263
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b6d79d66-26d1-422c-9400-671944a31e62" testId="0940173a-cce9-ae6b-81f0-d71759909509" testName="ModifyBookFileTest" computerName="OUJUN-PC" duration="00:00:00.0250035" startTime="2011-01-09T14:42:48.9845859+08:00" endTime="2011-01-09T14:42:49.0207188+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>测试方法 TestProjectReadMore.FormUtilTest.ModifyBookFileTest 引发异常:  System.NullReferenceException: 未将对象引用设置到对象的实例。。</Message>
+          <StackTrace>    在 read_more.FormUtil.ModifyBookFile(TreeNode node) 位置 C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\FormUtil.cs:行号 169
+   在 TestProjectReadMore.FormUtilTest.ModifyBookFileTest() 位置 C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\FormUtilTest.cs:行号 273
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b6e16350-8071-4fa1-aeba-1b81d756a86c" testId="4b3139d6-e47f-20d2-dfc5-dcb2f9e1ce54" testName="InitBookInfoFileTest" computerName="OUJUN-PC" duration="00:00:00.0930521" startTime="2011-01-09T14:42:49.0509922+08:00" endTime="2011-01-09T14:42:49.1554844+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>测试方法 TestProjectReadMore.FormUtilTest.InitBookInfoFileTest 引发异常:  System.ArgumentException: 空路径名是非法的。。</Message>
+          <StackTrace>    在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   在 System.Xml.XmlTextWriter..ctor(String filename, Encoding encoding)
+   在 read_more.FormUtil.InitBookInfoFile(String fileName) 位置 C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\FormUtil.cs:行号 92
+   在 TestProjectReadMore.FormUtilTest.InitBookInfoFileTest() 位置 C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\FormUtilTest.cs:行号 284
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="979bcc61-d27c-4f23-9404-f989faf81966" testId="0955bd4f-e224-4757-3cd4-df2da5f56489" testName="GetNewNodeTest1" computerName="OUJUN-PC" duration="00:00:00.0312008" startTime="2011-01-09T14:42:49.1789219+08:00" endTime="2011-01-09T14:42:49.2189609+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual 失败。应为: &lt;(null)&gt;，实际为: &lt;TreeNode: &gt;。</Message>
+          <StackTrace>   在 TestProjectReadMore.FormUtilTest.GetNewNodeTest1() 位置 C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\FormUtilTest.cs:行号 302
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c23f8a84-3c42-4b04-baf6-f88a60f31342" testId="f1a9f760-2fe4-6527-be5e-3f8ad2034213" testName="GetNewListItemTest1" computerName="OUJUN-PC" duration="00:00:00.0262366" startTime="2011-01-09T14:42:49.2609531+08:00" endTime="2011-01-09T14:42:49.3498203+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>测试方法 TestProjectReadMore.FormUtilTest.GetNewListItemTest1 引发异常:  System.NullReferenceException: 未将对象引用设置到对象的实例。。</Message>
+          <StackTrace>    在 read_more.FormUtil.GetNewListItem(Int32 imgIndex, TreeNode node) 位置 C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\FormUtil.cs:行号 48
+   在 TestProjectReadMore.FormUtilTest.GetNewListItemTest1() 位置 C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\FormUtilTest.cs:行号 316
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="6dbce37a-3a36-4e0c-8a4d-4e3c35e9bc8e" testId="be9f75e5-decf-6223-5081-6fe6becf3c26" testName="CreateBookNodeTest" computerName="OUJUN-PC" duration="00:00:00.9170025" startTime="2011-01-09T14:42:49.3879063+08:00" endTime="2011-01-09T14:42:50.3175938+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <DebugTrace>未将对象引用设置到对象的实例。
+       在 read_more.FormUtil.CreateBookNode(TreeNode node) 位置 C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\FormUtil.cs:行号 350
+----------------------------------------------------------------------
+</DebugTrace>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive 失败。验证此测试方法的正确性。</Message>
+          <StackTrace>   在 TestProjectReadMore.FormUtilTest.CreateBookNodeTest() 位置 C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\FormUtilTest.cs:行号 332
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="91775c4c-939a-4564-91b5-7ad94cb4b213" testId="09e5ac49-e310-9205-d443-2c4853ae1490" testName="ContainNodeTest1" computerName="OUJUN-PC" duration="00:00:00.0238185" startTime="2011-01-09T14:42:50.4328281+08:00" endTime="2011-01-09T14:42:50.4670078+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>测试方法 TestProjectReadMore.FormUtilTest.ContainNodeTest1 引发异常:  System.NullReferenceException: 未将对象引用设置到对象的实例。。</Message>
+          <StackTrace>    在 read_more.FormUtil.ContainNode(TreeNode sourceNode, TreeNode targetNode) 位置 C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\FormUtil.cs:行号 265
+   在 TestProjectReadMore.FormUtilTest.ContainNodeTest1() 位置 C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\FormUtilTest.cs:行号 345
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="6d280770-119d-4740-a8a2-1e59b2aac750" testId="c3c7087e-541d-5bde-704c-80bfe780ce85" testName="CanDragTest1" computerName="OUJUN-PC" duration="00:00:00.0230973" startTime="2011-01-09T14:42:50.4963047+08:00" endTime="2011-01-09T14:42:50.5285313+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>测试方法 TestProjectReadMore.FormUtilTest.CanDragTest1 引发异常:  System.NullReferenceException: 未将对象引用设置到对象的实例。。</Message>
+          <StackTrace>    在 read_more.FormUtil.CanDrag(TreeNode draggedNode, TreeNode targetNode) 位置 C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\FormUtil.cs:行号 284
+   在 TestProjectReadMore.FormUtilTest.CanDragTest1() 位置 C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\FormUtilTest.cs:行号 360
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="fb99a949-c3be-4cb3-bd34-73fb36d6772e" testId="769e3924-1eb0-8576-ee08-48fecf47e027" testName="AnalyseCurNodeTest1" computerName="OUJUN-PC" duration="00:00:00.0185846" startTime="2011-01-09T14:42:50.5461094+08:00" endTime="2011-01-09T14:42:50.5734531+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>测试方法 TestProjectReadMore.FormUtilTest.AnalyseCurNodeTest1 引发异常:  System.NullReferenceException: 未将对象引用设置到对象的实例。。</Message>
+          <StackTrace>    在 read_more.FormUtil.AnalyseCurNode(TreeNode curNode, List`1&amp; leafNodes, List`1&amp; parentNodes) 位置 C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\FormUtil.cs:行号 240
+   在 TestProjectReadMore.FormUtilTest.AnalyseCurNodeTest1() 位置 C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\TestProjectReadMore\FormUtilTest.cs:行号 376
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

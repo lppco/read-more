@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "read_more", "read_more.csproj", "{4689C168-21BD-4847-B890-1AFEB8460E9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectReadMore", "TestProjectReadMore\TestProjectReadMore.csproj", "{1DCD8F49-E7CD-49F9-B49F-E6468DBBE133}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ACC20B54-173E-4037-B098-E97F10165895}"
+	ProjectSection(SolutionItems) = preProject
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+		read_more.vsmdi = read_more.vsmdi
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = read_more.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4689C168-21BD-4847-B890-1AFEB8460E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4689C168-21BD-4847-B890-1AFEB8460E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4689C168-21BD-4847-B890-1AFEB8460E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4689C168-21BD-4847-B890-1AFEB8460E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DCD8F49-E7CD-49F9-B49F-E6468DBBE133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCD8F49-E7CD-49F9-B49F-E6468DBBE133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DCD8F49-E7CD-49F9-B49F-E6468DBBE133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DCD8F49-E7CD-49F9-B49F-E6468DBBE133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

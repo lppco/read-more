@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="read_more">
+</Property><Property Name="解决方案文件" Value="C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\read_more.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\read_more.suo">
+</Property><Property Name="Date" Value="2010年12月13日,星期一">
+</Property><Property Name="Time" Value="0:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="read_more.sln" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\read_more.sln">
+</Event><Event ErrorLevel="0" Project="" Source="read_more.suo" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\read_more.suo">
+</Event><Event ErrorLevel="0" Project="read_more" Source="read_more.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\read_more.csproj">
+</Event><Event ErrorLevel="0" Project="read_more" Source="SortType.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\SortType.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="Book.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\Book.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="BookInfoIndex.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\BookInfoIndex.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="ComboBoxEx.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\ComboBoxEx.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="CommonUtil.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\CommonUtil.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="Constants.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\Constants.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="FormUtil.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\FormUtil.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="frmAboutAuthor.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\frmAboutAuthor.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="frmAboutAuthor.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\frmAboutAuthor.Designer.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="frmAboutSoft.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\frmAboutSoft.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="frmAboutSoft.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\frmAboutSoft.Designer.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="frmMain.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="frmMain.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\frmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="frmNewNode.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\frmNewNode.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="frmNewNode.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\frmNewNode.Designer.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="frmRenNode.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\frmRenNode.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="frmRenNode.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\frmRenNode.Designer.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="frmSetExport.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\frmSetExport.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="frmSetExport.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\frmSetExport.Designer.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="IconIndex.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\IconIndex.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="ImgUtil.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\ImgUtil.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="NodeBookMap.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\NodeBookMap.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="OutputBookList.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\OutputBookList.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="Program.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="SearchBook.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\SearchBook.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="SearchCondition.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\SearchCondition.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="TraceLog.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\TraceLog.cs">
+</Event><Event ErrorLevel="0" Project="read_more" Source="app.config" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="read_more" Source="Properties\Settings.settings" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\addfile.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\addfile.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\addfolder.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\addfolder.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\bg.jpg" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\bg.jpg">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\clear.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\clear.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\details.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\details.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\exit.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\exit.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\help.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\help.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\icon.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\icon.png">
+</Event><Event ErrorLevel="2" Project="read_more" Source="images\kit.jpg" Description="未能将文件备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\kit.jpg">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\me.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\me.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\list.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\list.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\P38.bmp" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\P38.bmp">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\saveok.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\saveok.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\search.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\search.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\set.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\set.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\stat.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\stat.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\viewtype.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\viewtype.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\avi.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\avi.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\bmp.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\bmp.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\c.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\c.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\cpp.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\cpp.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\doc.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\doc.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\folder.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\folder.png">
+</Event><Event ErrorLevel="2" Project="read_more" Source="images\h.png" Description="未能将文件备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\h.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\html.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\html.png">
+</Event><Event ErrorLevel="2" Project="read_more" Source="images\ini.png" Description="未能将文件备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\ini.png">
+</Event><Event ErrorLevel="2" Project="read_more" Source="images\iso.png" Description="未能将文件备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\iso.png">
+</Event><Event ErrorLevel="2" Project="read_more" Source="images\java.png" Description="未能将文件备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\java.png">
+</Event><Event ErrorLevel="2" Project="read_more" Source="images\jepg.png" Description="未能将文件备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\jepg.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\library.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\library.png">
+</Event><Event ErrorLevel="2" Project="read_more" Source="images\mp3.png" Description="未能将文件备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\mp3.png">
+</Event><Event ErrorLevel="2" Project="read_more" Source="images\mpeg.png" Description="未能将文件备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\mpeg.png">
+</Event><Event ErrorLevel="2" Project="read_more" Source="images\new.png" Description="未能将文件备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\new.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\pdf.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\pdf.png">
+</Event><Event ErrorLevel="2" Project="read_more" Source="images\png.png" Description="未能将文件备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\png.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\ppt.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\ppt.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\progress.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\progress.gif">
+</Event><Event ErrorLevel="2" Project="read_more" Source="images\rar.png" Description="未能将文件备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\rar.png">
+</Event><Event ErrorLevel="2" Project="read_more" Source="images\rmvb.png" Description="未能将文件备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\rmvb.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\select.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\select.png">
+</Event><Event ErrorLevel="2" Project="read_more" Source="images\swf.png" Description="未能将文件备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\swf.png">
+</Event><Event ErrorLevel="2" Project="read_more" Source="images\wav.png" Description="未能将文件备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\wav.png">
+</Event><Event ErrorLevel="2" Project="read_more" Source="images\wmv.png" Description="未能将文件备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\wmv.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="images\xls.png" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\xls.png">
+</Event><Event ErrorLevel="2" Project="read_more" Source="images\zip.png" Description="未能将文件备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\images\zip.png">
+</Event><Event ErrorLevel="0" Project="read_more" Source="ntfy.ico" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\ntfy.ico">
+</Event><Event ErrorLevel="0" Project="read_more" Source="frmAboutAuthor.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\frmAboutAuthor.resx">
+</Event><Event ErrorLevel="0" Project="read_more" Source="frmAboutSoft.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\frmAboutSoft.resx">
+</Event><Event ErrorLevel="0" Project="read_more" Source="frmMain.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="read_more" Source="frmNewNode.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\frmNewNode.resx">
+</Event><Event ErrorLevel="0" Project="read_more" Source="frmRenNode.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\frmRenNode.resx">
+</Event><Event ErrorLevel="0" Project="read_more" Source="frmSetExport.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\frmSetExport.resx">
+</Event><Event ErrorLevel="0" Project="read_more" Source="Properties\Resources.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\read_more Beta_new\read_more Beta\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="read_more" Source="read_more.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="read_more" Source="read_more.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="read_more" Source="read_more.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="read_more.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="read_more.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="read_more" Source="read_more.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

@@ -1,0 +1,7 @@
+单元测试：repository → read-more → JUnit test_Code → read_more → read_more Beta-2.0 → TestProjectReadMore
+集成测试：
+1.UItest                      : repository → read-more → UItest                       → UI test.doc
+2.Usability Testing           : repository → read-more → Usability Testing            → Usability Testing.doc
+3.Internationalization Testing: repository → read-more → Internationalization Testing → 集成测试 International.pdf
+
+贡献比例：repository → contributionForm.doc

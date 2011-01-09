@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>读善其身\Test\08386168-连燚-金属.rar</path>
+      <name>08386168-连燚-金属.rar</name>
+      <realpath>C:\Users\Administrator\Desktop\Test\08386168-连燚-金属.rar</realpath>
+    </book>
+    <book>
+      <path>读善其身\Test\code_review_checklist.pdf</path>
+      <name>code_review_checklist.pdf</name>
+      <realpath>C:\Users\Administrator\Desktop\Test\code_review_checklist.pdf</realpath>
+    </book>
+    <book>
+      <path>读善其身\Test\English.pptx</path>
+      <name>English.pptx</name>
+      <realpath>C:\Users\Administrator\Desktop\Test\English.pptx</realpath>
+    </book>
+    <book>
+      <path>读善其身\Test\ITRouter_issue01.pdf</path>
+      <name>ITRouter_issue01.pdf</name>
+      <realpath>C:\Users\Administrator\Desktop\Test\ITRouter_issue01.pdf</realpath>
+    </book>
+    <book>
+      <path>读善其身\Test\Prototype  V1.4.doc</path>
+      <name>Prototype  V1.4.doc</name>
+      <realpath>C:\Users\Administrator\Desktop\Test\Prototype  V1.4.doc</realpath>
+    </book>
+    <book>
+      <path>读善其身\Test\中山大学亚残运会国际广播中心团队名单（80人）.xlsx</path>
+      <name>中山大学亚残运会国际广播中心团队名单（80人）.xlsx</name>
+      <realpath>C:\Users\Administrator\Desktop\Test\中山大学亚残运会国际广播中心团队名单（80人）.xlsx</realpath>
+    </book>
+    <book>
+      <path>读善其身\Test\悦.我.txt</path>
+      <name>悦.我.txt</name>
+      <realpath>C:\Users\Administrator\Desktop\Test\悦.我.txt</realpath>
+    </book>
+    <book>
+      <path>读善其身\Test\use_ruby.cmd</path>
+      <name>use_ruby.cmd</name>
+      <realpath>E:\use_ruby.cmd</realpath>
+    </book>
+    <book>
+      <path>读善其身\Test\index.html</path>
+      <name>index.html</name>
+      <realpath>E:\help\index.html</realpath>
+    </book>
+    <book>
+      <path>读善其身\Test\logo20.png</path>
+      <name>logo20.png</name>
+      <realpath>E:\help\images\logo20.png</realpath>
+    </book>
+    <book>
+      <path>读善其身\Test\SDK Manager.exe</path>
+      <name>SDK Manager.exe</name>
+      <realpath>E:\android-sdk-windows\SDK Manager.exe</realpath>
+    </book>
+    <book>
+      <path>读善其身\Test\AndroidManifest.xml</path>
+      <name>AndroidManifest.xml</name>
+      <realpath>E:\android-sdk-windows\market_licensing\library\AndroidManifest.xml</realpath>
+    </book>
+    <book>
+      <path>读善其身\Test\AESObfuscator.java</path>
+      <name>AESObfuscator.java</name>
+      <realpath>E:\android-sdk-windows\market_licensing\library\src\com\android\vending\licensing\AESObfuscator.java</realpath>
+    </book>
+  </Books>
+</MyLibrary>

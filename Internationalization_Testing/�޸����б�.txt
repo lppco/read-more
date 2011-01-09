@@ -1,0 +1,7 @@
+中英文语言切换共修改了一下六个窗口代码：
+frmMain.cs
+frmAboutAuthor.cs
+frmAboutSoft.cs
+frmNewNode.cs
+frmRenNode.cs
+frmSetExport.cs

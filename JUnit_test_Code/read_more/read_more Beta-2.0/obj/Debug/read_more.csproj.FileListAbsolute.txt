@@ -1,0 +1,44 @@
+C:\Users\Administrator\Desktop\read_more Beta\read_more Beta\bin\Debug\read_more.exe.config
+C:\Users\Administrator\Desktop\read_more Beta\read_more Beta\bin\Debug\read_more.exe
+C:\Users\Administrator\Desktop\read_more Beta\read_more Beta\bin\Debug\read_more.pdb
+C:\Users\Administrator\Desktop\read_more Beta\read_more Beta\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\read_more Beta\read_more Beta\obj\Debug\read_more.frmAboutAuthor.resources
+C:\Users\Administrator\Desktop\read_more Beta\read_more Beta\obj\Debug\read_more.frmAboutSoft.resources
+C:\Users\Administrator\Desktop\read_more Beta\read_more Beta\obj\Debug\read_more.frmMain.resources
+C:\Users\Administrator\Desktop\read_more Beta\read_more Beta\obj\Debug\read_more.frmNewNode.resources
+C:\Users\Administrator\Desktop\read_more Beta\read_more Beta\obj\Debug\read_more.frmRenNode.resources
+C:\Users\Administrator\Desktop\read_more Beta\read_more Beta\obj\Debug\read_more.frmSetExport.resources
+C:\Users\Administrator\Desktop\read_more Beta\read_more Beta\obj\Debug\read_more.Properties.Resources.resources
+C:\Users\Administrator\Desktop\read_more Beta\read_more Beta\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\read_more Beta\read_more Beta\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\read_more Beta\read_more Beta\obj\Debug\read_more.exe
+C:\Users\Administrator\Desktop\read_more Beta\read_more Beta\obj\Debug\read_more.pdb
+G:\大三\软件工程\项目\软工5\read_more Beta\bin\Debug\read_more.exe.config
+G:\大三\软件工程\项目\软工5\read_more Beta\obj\Debug\read_more.exe
+G:\大三\软件工程\项目\软工5\read_more Beta\obj\Debug\read_more.pdb
+G:\大三\软件工程\项目\软工5\read_more Beta\obj\Debug\ResolveAssemblyReference.cache
+G:\大三\软件工程\项目\软工5\read_more Beta\obj\Debug\read_more.frmAboutAuthor.resources
+G:\大三\软件工程\项目\软工5\read_more Beta\obj\Debug\read_more.frmAboutSoft.resources
+G:\大三\软件工程\项目\软工5\read_more Beta\obj\Debug\read_more.frmMain.resources
+G:\大三\软件工程\项目\软工5\read_more Beta\obj\Debug\read_more.frmNewNode.resources
+G:\大三\软件工程\项目\软工5\read_more Beta\obj\Debug\read_more.frmRenNode.resources
+G:\大三\软件工程\项目\软工5\read_more Beta\obj\Debug\read_more.frmSetExport.resources
+G:\大三\软件工程\项目\软工5\read_more Beta\obj\Debug\read_more.Properties.Resources.resources
+G:\大三\软件工程\项目\软工5\read_more Beta\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\大三\软件工程\项目\软工5\read_more Beta\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\大三\软件工程\项目\软工5\read_more Beta\bin\Debug\read_more.exe
+G:\大三\软件工程\项目\软工5\read_more Beta\bin\Debug\read_more.pdb
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\bin\Debug\read_more.exe.config
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\obj\Debug\read_more.exe
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\obj\Debug\read_more.pdb
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\bin\Debug\read_more.exe
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\bin\Debug\read_more.pdb
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\obj\Debug\read_more.frmAboutAuthor.resources
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\obj\Debug\read_more.frmAboutSoft.resources
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\obj\Debug\read_more.frmMain.resources
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\obj\Debug\read_more.frmNewNode.resources
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\obj\Debug\read_more.frmRenNode.resources
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\obj\Debug\read_more.frmSetExport.resources
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\obj\Debug\read_more.Properties.Resources.resources
+C:\Users\oujun\Desktop\read_more\read_more\read_more Beta\obj\Debug\read_more.csproj.GenerateResource.Cache
